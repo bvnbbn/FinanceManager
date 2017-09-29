@@ -1,0 +1,7 @@
+#Fri Sep 29 01:51:08 IST 2017
+base.0=/home/vikas/constraint-layout/FinanceManager/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_24f32f9b1657f1168d3e5ce0cdf80c4d3202ab4a
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/vikas/constraint-layout/FinanceManager/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_1a7b078ae7b32f306a0d23af4dd0c229047cea76/classes.dex
+base.1=/home/vikas/constraint-layout/FinanceManager/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_1a7b078ae7b32f306a0d23af4dd0c229047cea76
+file.0=/home/vikas/constraint-layout/FinanceManager/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_24f32f9b1657f1168d3e5ce0cdf80c4d3202ab4a/classes.dex

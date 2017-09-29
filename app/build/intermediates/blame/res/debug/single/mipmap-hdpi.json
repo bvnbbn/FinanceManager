@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/vikas/constraint-layout/FinanceManager/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
+        "source": "/home/vikas/constraint-layout/FinanceManager/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/vikas/constraint-layout/FinanceManager/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher_round.png",
+        "source": "/home/vikas/constraint-layout/FinanceManager/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/vikas/constraint-layout/FinanceManager/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_action_search.png",
+        "source": "/home/vikas/constraint-layout/FinanceManager/app/src/main/res/mipmap-hdpi/ic_action_search.png"
+    }
+]
