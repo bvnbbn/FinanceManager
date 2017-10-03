@@ -3,39 +3,21 @@
 
     <item
         is-multidex="true"
-        jar="/home/vikas/constraint-layout/FinanceManager/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="66513eccd418697ead27d93bb86364115aa938cf">
-        <dex dex="/home/vikas/constraint-layout/FinanceManager/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_24f32f9b1657f1168d3e5ce0cdf80c4d3202ab4a/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/vikas/.android/build-cache/3ae3c0921ef4b1c714cce5e8f1c3e063d93d4c5b/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
-        <dex dex="/home/vikas/constraint-layout/FinanceManager/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cd4fc6163c19e392a5d32ec40a8132d20552018f/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/vikas/constraint-layout/FinanceManager/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jar="C:\Users\Vikash Yadav\Desktop\New folder\FinanceManager-master\FinanceManager\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.3"
         sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
-        <dex dex="/home/vikas/constraint-layout/FinanceManager/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_1a7b078ae7b32f306a0d23af4dd0c229047cea76/classes.dex" />
+        <dex dex="C:\Users\Vikash Yadav\Desktop\New folder\FinanceManager-master\FinanceManager\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_077384c587567cc132849fb7f6d339d8e2e5f18d\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/home/vikas/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jar="C:\Users\Vikash Yadav\Desktop\New folder\FinanceManager-master\FinanceManager\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.3"
-        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
-        <dex dex="/home/vikas/constraint-layout/FinanceManager/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_83a8f69e8088777a2c2181b30a46238037eef833/classes.dex" />
+        sha1="aee6c9ed2ffa9df34b0c33a0372ae60dc4b9ffe7">
+        <dex dex="C:\Users\Vikash Yadav\Desktop\New folder\FinanceManager-master\FinanceManager\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_f8fffdf5eacfb7079c86e3b06260722edb4ab282\classes.dex" />
     </item>
 
 </items>
